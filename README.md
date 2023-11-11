@@ -1,1 +1,1 @@
-# course github 2023
+# github crash course 2023
